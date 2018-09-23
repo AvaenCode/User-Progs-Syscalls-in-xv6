@@ -5,4 +5,5 @@ The following document should provide as a resource on how to add your own user 
 Either way I hope that this tutorial serves useful to anyone who is looking to customize their xv6 OS!
 
 Sincerely,
+
 Thomas
